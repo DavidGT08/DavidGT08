@@ -9,7 +9,7 @@ Engineering Physics student, passionate about computational physics, dynamical s
 * 🌍  I'm based in Queretaro, MX
 * 🖥️  See my portfolio at [MyPortfolio](http://davidgt08.github.io/portfol_datascience.github.io/)
 * ✉️  You can contact me at [davidgomtorres@outlook.es](mailto:davidgomtorres@outlook.es)
-* 🚀  I'm currently working on [My Thesis Project](http://github.com/DavidGT08/PricingAnalytics_DairyProducts)
+* 🚀  I'm currently working on [My Thesis Project](http://github.com/DavidGT08/VisualizationOfCosmologicalModels)
 * 🧠  I'm learning PyQt, PyTorch, YOLO and some other stuff related to cosmology
 * 🤝  I'm open to collaborating on Data Science projects and, also computational physics problems
 
