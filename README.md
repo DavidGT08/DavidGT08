@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Physics Engineer | Data Scientist
 ---------------------------------
 
-Engineering Physics student, passionate about computational physics, dynamical systems and cosmology. I've worked in forecasting projects for Econophysics and Data Pricing for the dairy industry. Participant of hackathons and summer schools related to Data Science. Recently, I'm working in my thesis project called Visualization of Cosmological Models in which I develope an Graphic User Inteface in order to make cosmological concepts learning more suitable, not only for physicist but for pre-graduate students and enthusiasts.
+Engineering Physics student, passionate about computational physics, dynamical systems and cosmology. I've worked in forecasting projects for Econophysics and Data Pricing for the dairy industry. Participant of hackathons and summer schools related to Data Science. Recently, I'm working in my thesis project called Visualization of Cosmological Models in which I develope a Graphic User Inteface in order to make cosmological concepts learning more suitable, not only for physicist but for pre-graduate students and enthusiasts.
 
 * 🌍  I'm based in Queretaro, MX
-* 🖥️  See my portfolio at [MyPortfolio](http://davidgt08.github.io/portfol_datascience.github.io/)
+* 🖥️  See my portfolio at [My Web Site](http://davidgt08.github.io/portfol_datascience.github.io/)
 * ✉️  You can contact me at [davidgomtorres@outlook.es](mailto:davidgomtorres@outlook.es)
 * 🚀  I'm currently working on [My Thesis Project](http://github.com/DavidGT08/VisualizationOfCosmologicalModels)
 * 🧠  I'm learning PyQt, PyTorch, YOLO and some other stuff related to cosmology
-* 🤝  I'm open to collaborating on Data Science projects and, also computational physics problems
+* 🤝  I'm open to collaborating on Data Science projects and, also, computational physics problems
 
 ### Skills
 
