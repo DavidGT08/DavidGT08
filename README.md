@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Soy+David+Gomez!;" />
 </h1>
 
+Físico apasionado por la simulación computacional y su análisis técnico que junte la teoría con la realidad. Experiencia en proyectos relacionados con la generación de energía eléctrica mediante aerogeneradores y su correspondiente análisis estadístico de datos y visualización de gráficos utilizando Python o frameworks como PySpark para la gestión de Big Data, con el fin de crear informes técnicos.
+
 ###
 
 <div align="center">
