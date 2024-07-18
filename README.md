@@ -4,11 +4,6 @@
 
 Físico apasionado por la simulación computacional y su análisis técnico que junte la teoría con la realidad. Experiencia en proyectos relacionados con la generación de energía eléctrica mediante aerogeneradores y su correspondiente análisis estadístico de datos y visualización de gráficos utilizando Python o frameworks como PySpark para la gestión de Big Data, con el fin de crear informes técnicos.
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGT08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -70,3 +65,8 @@ Físico apasionado por la simulación computacional y su análisis técnico que 
 
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGT08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
