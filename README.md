@@ -52,7 +52,7 @@ Físico apasionado por la simulación computacional y su análisis técnico que 
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 
-  <a href="https://davidgt08.github.io/portfol_datascience.github.io/" target="_blank">
+  <a href="https://davidgt08.github.io/engineering_portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
